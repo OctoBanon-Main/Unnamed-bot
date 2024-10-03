@@ -6,15 +6,15 @@
   <h3 align="center">The development of this version has been stopped.</h3>
 </p>
 <p align="center">
-  <a href="https://github.com/OctoBanon-Main/Unnamed-bot/issues">Send bug report</a>
+  <a href="https://github.com/OctoBanon-Main/UnnamedBot/issues">Send bug report</a>
   •
-  <a href="https://github.com/OctoBanon-Main/Unnamed-bot#needed-libraries">Needed libraries</a>
+  <a href="https://github.com/OctoBanon-Main/UnnamedBot#needed-libraries">Needed libraries</a>
   •
-  <a href="https://github.com/OctoBanon-Main/Unnamed-bot#installation-and-usage">Installation</a>
+  <a href="https://github.com/OctoBanon-Main/UnnamedBot#installation-and-usage">Installation</a>
   •
-  <a href="https://github.com/OctoBanon-Main/Unnamed-bot#something-is-broken-right-now">Broked features</a>
+  <a href="https://github.com/OctoBanon-Main/UnnamedBot#something-is-broken-right-now">Broked features</a>
   •
-  <a href="https://github.com/OctoBanon-Main/Unnamed-bot#licenses">Licenses</a>
+  <a href="https://github.com/OctoBanon-Main/UnnamedBot#licenses">Licenses</a>
 </p>
 
 <p align="center">
